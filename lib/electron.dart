@@ -5,4 +5,5 @@ class Electron {
   static const num = 9.109e-28;
   Spin? _spin;
   Electron? _entangledElectron;
+  //This is a comment
 }
